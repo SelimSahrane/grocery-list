@@ -17,3 +17,7 @@
  
   transform: scale(1.5);
 }
+
+#myButton {
+  font-size :1.2em;
+}
